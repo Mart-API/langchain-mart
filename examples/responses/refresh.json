@@ -1,0 +1,33 @@
+{
+  "url": "https://www.linkedin.com/in/ava-morgan-demo",
+  "lastName": "Morgan",
+  "titleSource": "linkedin",
+  "firstName": "Ava",
+  "tookMs": 1070,
+  "photo": "https://images.example.com/ava-morgan.png",
+  "currentCompany": {
+    "name": "Meridian",
+    "slug": "meridian-demo",
+    "linkedInUrl": "https://www.linkedin.com/company/meridian-demo",
+    "linkedInId": "90000001"
+  },
+  "companyState": "public",
+  "headlineSource": "linkedin",
+  "headline": "Senior Product Designer at Meridian",
+  "memberIdentifier": "100000001",
+  "currentTitle": "Senior Product Designer",
+  "memorialized": null,
+  "memorializedSource": null,
+  "accessible": true,
+  "photoState": "public",
+  "profileState": "accessible",
+  "creditsUsed": 1,
+  "type": "linkedin-refresh",
+  "publicIdentifier": "ava-morgan-demo",
+  "currentSchool": {
+    "name": "Pacific Institute of Design",
+    "slug": "pacific-design-demo",
+    "linkedInUrl": "https://www.linkedin.com/school/pacific-design-demo",
+    "linkedInId": "90000002"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "linkedin-posts",
+  "url": "https://www.linkedin.com/in/ava-morgan-demo",
+  "accessible": true,
+  "posts": [
+    {
+      "text": "A small update. A big step for our team. Introducing Meridian Canvas, a shared space for better design. #ProductDesign #Meridian",
+      "headline": null,
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500000000000000001",
+      "postType": "image",
+      "datePublished": "2026-09-16T10:00:00Z",
+      "likes": 128,
+      "comments": 12,
+      "reactionTypes": [
+        "LIKE",
+        "CELEBRATE",
+        "INSIGHTFUL"
+      ],
+      "author": {
+        "name": "Ava Morgan",
+        "url": "https://www.linkedin.com/in/ava-morgan-demo"
+      },
+      "image": "https://images.example.com/meridian-canvas-launch.png",
+      "images": [
+        "https://images.example.com/meridian-canvas-launch.png"
+      ],
+      "video": null,
+      "hashtags": [
+        "ProductDesign",
+        "Meridian"
+      ],
+      "activityId": "7500000000000000001",
+      "embeddedLinks": [
+        "https://meridian.example/canvas"
+      ],
+      "mentions": [
+        {
+          "name": "Meridian",
+          "type": "company",
+          "url": "https://www.linkedin.com/company/meridian-demo"
+        }
+      ]
+    }
+  ],
+  "tookMs": 1430,
+  "creditsUsed": 1
+}

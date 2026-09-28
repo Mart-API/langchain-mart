@@ -1,0 +1,123 @@
+{
+  "type": "linkedin-company",
+  "url": "https://www.linkedin.com/company/meridian-demo",
+  "accessible": true,
+  "company": {
+    "name": "Meridian",
+    "universalName": "meridian-demo",
+    "pageType": "company",
+    "publishedContacts": [
+      {
+        "type": "email",
+        "value": "hello@meridian.example",
+        "source": "company_about",
+        "sourceUrl": "https://www.linkedin.com/company/meridian-demo",
+        "evidence": "Contact hello@meridian.example for general enquiries."
+      }
+    ],
+    "employeeSearchCompanyIds": [
+      "90000001"
+    ],
+    "jobSearchUrl": "https://www.linkedin.com/jobs/search/?f_C=90000001",
+    "linkedInId": "90000001",
+    "tagline": "Design tools for a more connected world.",
+    "description": "Meridian builds collaborative design tools for product teams. Contact hello@meridian.example for general enquiries.",
+    "website": "https://meridian.example",
+    "domain": "meridian.example",
+    "industry": "Software Development",
+    "companySize": "51–200 employees",
+    "employeeCount": 128,
+    "employeeCountRange": {
+      "start": 51,
+      "end": 200
+    },
+    "headquarters": "San Francisco, California",
+    "locations": [
+      {
+        "formatted": "100 Example Avenue, San Francisco, CA 94105, US",
+        "street": "100 Example Avenue",
+        "cityLine": "San Francisco, CA 94105, US",
+        "countryCode": "US",
+        "addressLines": [
+          "100 Example Avenue",
+          "San Francisco, CA 94105",
+          "US"
+        ],
+        "directionsUrl": "https://www.google.com/maps/search/?api=1&query=San+Francisco",
+        "isPrimary": true
+      }
+    ],
+    "companyType": "Privately Held",
+    "founded": "2019",
+    "specialties": [
+      "Design tools",
+      "Collaboration",
+      "Design systems"
+    ],
+    "followers": 18420,
+    "address": {
+      "street": "100 Example Avenue",
+      "city": "San Francisco",
+      "region": "California",
+      "postalCode": "94105",
+      "country": "US"
+    },
+    "logo": "https://images.example.com/meridian-logo.png",
+    "banner": "https://images.example.com/meridian-banner.png",
+    "crunchbaseUrl": "https://www.crunchbase.com/organization/meridian-demo",
+    "similarCompanies": [
+      {
+        "name": "Northstar Studio",
+        "slug": "northstar-studio-demo",
+        "linkedinUrl": "https://www.linkedin.com/company/northstar-studio-demo",
+        "pageType": "company",
+        "industry": "Design Services",
+        "location": "Seattle, Washington",
+        "logo": "https://images.example.com/northstar-logo.png"
+      }
+    ],
+    "affiliatedPages": [
+      {
+        "name": "Meridian Labs",
+        "slug": "meridian-labs-demo",
+        "linkedinUrl": "https://www.linkedin.com/showcase/meridian-labs-demo",
+        "pageType": "showcase",
+        "industry": "Software Development",
+        "location": "San Francisco",
+        "logo": "https://images.example.com/meridian-labs.png"
+      }
+    ],
+    "employeeSample": [
+      {
+        "name": "Ava Morgan",
+        "profileUrl": "https://www.linkedin.com/in/ava-morgan-demo",
+        "source": "company_public_page"
+      }
+    ],
+    "featuredProducts": [
+      {
+        "name": "Meridian Canvas",
+        "linkedinUrl": "https://www.linkedin.com/products/meridian-canvas-demo",
+        "category": {
+          "name": "Collaboration Software",
+          "linkedinUrl": "https://www.linkedin.com/products/categories/collaboration-software"
+        },
+        "description": "A shared workspace for product design and review.",
+        "logoUrl": "https://images.example.com/meridian-canvas-logo.png",
+        "imageUrl": "https://images.example.com/meridian-canvas.png",
+        "source": "company_public_products"
+      }
+    ],
+    "linkedinUrl": "https://www.linkedin.com/company/meridian-demo",
+    "employees": [
+      {
+        "name": "Ava Morgan",
+        "headline": "Senior Product Designer at Meridian",
+        "location": "San Francisco, California",
+        "profileUrl": "https://www.linkedin.com/in/ava-morgan-demo"
+      }
+    ]
+  },
+  "tookMs": 1160,
+  "creditsUsed": 1
+}

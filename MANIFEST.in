@@ -1,0 +1,2 @@
+recursive-include examples *.py *.json *.md
+recursive-include tests *.py

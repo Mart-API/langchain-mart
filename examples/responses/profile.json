@@ -1,0 +1,354 @@
+{
+  "type": "linkedin-profile",
+  "url": "https://www.linkedin.com/in/ava-morgan-demo",
+  "accessible": true,
+  "profile": {
+    "id": "ava-morgan-demo",
+    "name": "Ava Morgan",
+    "firstName": "Ava",
+    "lastName": "Morgan",
+    "headline": "Senior Product Designer at Meridian",
+    "currentTitle": "Senior Product Designer",
+    "titleSource": "linkedin",
+    "currentCompany": "Meridian",
+    "company": {
+      "name": "Meridian",
+      "linkedInId": "90000001",
+      "linkedinUrl": "https://www.linkedin.com/company/meridian-demo",
+      "universalName": "meridian-demo",
+      "domain": "meridian.example",
+      "website": "https://meridian.example",
+      "description": "Meridian builds collaborative design tools for product teams. Contact hello@meridian.example for general enquiries.",
+      "industry": "Software Development",
+      "employeeCount": 128,
+      "companySize": "51–200 employees",
+      "employeeCountRange": {
+        "start": 51,
+        "end": 200
+      },
+      "headquarters": "San Francisco, California",
+      "logo": "https://images.example.com/meridian-logo.png",
+      "founded": "2019",
+      "followers": 18420,
+      "city": "San Francisco",
+      "region": "California",
+      "country": "US"
+    },
+    "memorialized": null,
+    "memorializedSource": null,
+    "companyState": "public",
+    "about": "I design accessible collaboration tools and help teams turn complex workflows into clear, useful products.",
+    "followerCount": 2480,
+    "connectionsCount": 842,
+    "location": {
+      "linkedinText": "San Francisco, California, United States",
+      "countryCode": "US",
+      "parsed": {
+        "text": "San Francisco, California, United States",
+        "countryCode": "US",
+        "regionCode": "CA",
+        "country": "US",
+        "countryFull": "United States",
+        "state": "California",
+        "city": "San Francisco"
+      }
+    },
+    "experience": [
+      {
+        "position": "Senior Product Designer",
+        "location": "San Francisco, California",
+        "companyName": "Meridian",
+        "companyLinkedinUrl": "https://www.linkedin.com/company/meridian-demo",
+        "companyUniversalName": "meridian-demo",
+        "duration": "Jan 2023 - Present",
+        "description": "Leading product design for the Meridian collaboration platform.",
+        "experienceGroupId": null,
+        "startDate": {
+          "month": 1,
+          "year": 2023,
+          "text": "Jan 2023"
+        },
+        "endDate": null,
+        "companyLogo": {
+          "url": "https://images.example.com/meridian-logo.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/meridian-logo.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        },
+        "domain": "meridian.example",
+        "companyIndustry": "Software Development",
+        "companySize": "51–200 employees",
+        "companyHeadquarters": "San Francisco, California",
+        "positionSource": "linkedin",
+        "companyLinkedInId": "90000001",
+        "companyNameSource": "linkedin",
+        "dateSource": "linkedin"
+      }
+    ],
+    "experienceAvailability": {
+      "returnedPositions": 1,
+      "positionsWithTitle": 1,
+      "positionsWithDerivedTitle": 0,
+      "positionsWithStartDate": 1,
+      "positionsWithEndDate": 0,
+      "positionsWithDescription": 1
+    },
+    "experienceState": "complete",
+    "education": [
+      {
+        "schoolName": "Pacific Institute of Design",
+        "schoolLinkedinUrl": "https://www.linkedin.com/school/pacific-design-demo",
+        "schoolSlug": "pacific-design-demo",
+        "schoolId": "90000002",
+        "degree": "Bachelor of Design",
+        "fieldOfStudy": "Interaction Design",
+        "startDate": {
+          "year": 2015,
+          "text": "2015"
+        },
+        "endDate": {
+          "year": 2019,
+          "text": "2019"
+        },
+        "period": "2015 - 2019",
+        "description": "Studied interaction design, visual systems, and human-computer interaction.",
+        "insights": null,
+        "schoolLogo": {
+          "url": "https://images.example.com/pacific-design-logo.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/pacific-design-logo.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        },
+        "schoolLinkedInId": "90000002"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "Interaction Design"
+      },
+      {
+        "name": "Design Systems"
+      },
+      {
+        "name": "User Research"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "proficiency": "Professional working proficiency"
+      }
+    ],
+    "honorsAndAwards": [
+      {
+        "title": "Emerging Designer Award",
+        "issuedBy": "Pacific Design Guild",
+        "issuedAt": "Jun 2024",
+        "description": "Recognition for accessible interaction design."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Accessible Product Design",
+        "issuedAt": "Issued Mar 2024 · Expires Mar 2027",
+        "link": "https://learning.example/credentials/DEMO-1042",
+        "issuedBy": "Open Design Academy",
+        "issuedByLink": "https://www.linkedin.com/company/open-design-academy-demo",
+        "issuedByLogo": {
+          "url": "https://images.example.com/open-design-academy.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/open-design-academy.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        },
+        "issuedOn": "Mar 2024",
+        "expiresOn": "Mar 2027",
+        "credentialId": "DEMO-1042"
+      }
+    ],
+    "courses": [
+      {
+        "title": "Research Methods for Digital Products",
+        "associatedWith": "Pacific Institute of Design",
+        "associatedWithLink": "https://www.linkedin.com/school/pacific-design-demo"
+      }
+    ],
+    "volunteering": [
+      {
+        "role": "Design Mentor",
+        "organizationName": "Community Design Lab",
+        "duration": "Jan 2022 - Dec 2024",
+        "startDate": {
+          "month": 1,
+          "year": 2022,
+          "text": "Jan 2022"
+        },
+        "endDate": {
+          "month": 12,
+          "year": 2024,
+          "text": "Dec 2024"
+        },
+        "description": "Mentored early-career designers on accessible product design.",
+        "cause": "Education",
+        "companyLinkedinUrl": "https://www.linkedin.com/company/community-design-lab-demo",
+        "logo": {
+          "url": "https://images.example.com/community-design-lab.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/community-design-lab.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        }
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bay Area Design Collective",
+        "positionHeld": "Member",
+        "description": "A community for product designers and researchers.",
+        "startDate": {
+          "month": 3,
+          "year": 2021,
+          "text": "Mar 2021"
+        },
+        "endDate": null,
+        "companyLinkedinUrl": "https://www.linkedin.com/company/bay-design-collective-demo",
+        "logo": {
+          "url": "https://images.example.com/bay-design-collective.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/bay-design-collective.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        }
+      }
+    ],
+    "publications": [
+      {
+        "title": "Making Complex Workflows Feel Simple",
+        "publishedAt": "Design Notes · May 2025",
+        "description": "A practical guide to simplifying collaborative product workflows.",
+        "link": "https://design-notes.example/workflows",
+        "publisher": "Design Notes",
+        "publishedOn": "May 2025",
+        "contributors": [
+          {
+            "name": "Jordan Lee",
+            "linkedinUrl": "https://www.linkedin.com/in/jordan-lee-demo"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Meridian Design System",
+        "duration": "Jan 2023 - Dec 2024",
+        "startDate": {
+          "month": 1,
+          "year": 2023,
+          "text": "Jan 2023"
+        },
+        "endDate": {
+          "month": 12,
+          "year": 2024,
+          "text": "Dec 2024"
+        },
+        "description": "An accessible component library for the Meridian product suite.",
+        "contributors": [
+          {
+            "name": "Jordan Lee",
+            "linkedinUrl": "https://www.linkedin.com/in/jordan-lee-demo"
+          }
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "givenBy": "Jordan Lee",
+        "givenByLink": "https://www.linkedin.com/in/jordan-lee-demo",
+        "description": "Ava brings careful research and clear thinking to every product decision.",
+        "givenByPicture": {
+          "url": "https://images.example.com/jordan-lee.png",
+          "sizes": [
+            {
+              "url": "https://images.example.com/jordan-lee.png",
+              "width": 200,
+              "height": 200
+            }
+          ]
+        }
+      }
+    ],
+    "recommendersCount": 7,
+    "influencer": null,
+    "topVoice": null,
+    "creator": null,
+    "websites": [
+      {
+        "url": "https://ava.example",
+        "label": "Portfolio"
+      }
+    ],
+    "website": "https://ava.example",
+    "photo": "https://images.example.com/ava-morgan.png",
+    "photoState": "public",
+    "bannerImage": "https://images.example.com/ava-banner.png",
+    "memberId": "100000001",
+    "memberIdentifier": "100000001",
+    "linkedInIdentifier": "urn:li:member:100000001",
+    "linkedinUrl": "https://www.linkedin.com/in/ava-morgan-demo",
+    "publicIdentifier": "ava-morgan-demo",
+    "peopleAlsoViewed": [
+      {
+        "name": "Jordan Lee",
+        "publicIdentifier": "jordan-lee-demo",
+        "url": "https://www.linkedin.com/in/jordan-lee-demo"
+      }
+    ],
+    "currentCompanyDomain": "meridian.example",
+    "currentCompanyIndustry": "Software Development",
+    "currentCompanySize": "51–200 employees",
+    "currentCompanyHeadquarters": "San Francisco, California",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "countryCode": "US",
+    "coverPhoto": "https://images.example.com/ava-banner.png",
+    "followers": 2480,
+    "connections": 842,
+    "headlineSource": "linkedin",
+    "currentCompanyId": "90000001",
+    "currentSchoolId": "90000002",
+    "workEmail": null,
+    "emailStatus": null,
+    "emailMatch": null,
+    "emailConfidence": null,
+    "companyDomain": "meridian.example",
+    "publicHeadline": "Senior Product Designer at Meridian"
+  },
+  "tookMs": 1280,
+  "creditsUsed": 1,
+  "profileState": "accessible"
+}

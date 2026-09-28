@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "langchain-mart"
+version = "0.1.0a2"
+description = "LinkedIn API tools for LangChain: profiles, companies, contact refresh, posts and optional work emails."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Mart Support", email = "support@mart.dev"}]
+license = "MIT"
+license-files = ["LICENSE"]
+keywords = ["langchain", "linkedin", "enrichment", "mart", "tools"]
+dependencies = ["langchain-core>=1.6.4,<2", "httpx>=0.28.1,<1", "pydantic>=2.7.4,<3"]
+
+[project.optional-dependencies]
+test = ["langchain-tests==1.1.9", "pytest>=8,<10", "pytest-socket>=0.7,<1"]
+
+[project.urls]
+Homepage = "https://mart.dev"
+Documentation = "https://github.com/Mart-API/langchain-mart#readme"
+Repository = "https://github.com/Mart-API/langchain-mart"
+Issues = "https://github.com/Mart-API/langchain-mart/issues"
+
+[tool.setuptools.packages.find]
+include = ["langchain_mart*"]
